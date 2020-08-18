@@ -1,7 +1,7 @@
 ### Hi there, I'm Yassine - aka [Yapac][website] 👋
 
-[![Website](https://img.shields.io/website?label=Yapac.com&style=for-the-badge&)](https://facebook.com)
-[![Instagram Follow](https://img.shields.io/twitter/follow/Yapac?color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapac_96/)
+[![Website](https://img.shields.io/website?label=Yapac.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://facebook.com)
+[![Instagram Follow](https://img.shields.io/twitter/follow/Yapac_96?color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapac_96/)
 
 ## I'm a Athlete, Designer and Developer !
 
