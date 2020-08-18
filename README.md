@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I'm a dancer and a parkour athlete!
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Yapac Spotify Playing" width="350" />](https://open.spotify.com/user/pnqrrxa85831rfm0o8q9alc0w?si=hMYonEsKSk6ksQPlQtjaFA)
 
 ### Connect with me:
 
