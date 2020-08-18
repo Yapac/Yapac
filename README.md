@@ -2,9 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=Yapac.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://facebook.com)
 [![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapac&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapac_96/)
-https://img.shields.io/youtube/views/Dl-ekLb4quE?
-https://img.shields.io/twitter/follow/Yapac?
-https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapac
 ## I'm a Athlete, Designer and Developer !
 
 - 🔭 I’m currently studding multimedia development!
