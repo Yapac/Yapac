@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary> Github Stats</summary>
+  <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Yapac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yapac&show_icons=true&hide_border=true" />
 
