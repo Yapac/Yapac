@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Yapac.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://facebook.com)
 [![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapac&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapac_96/)
-## I'm a Athlete, Designer and Developer !
+## I'm a Designer and a FullStack developer !
 
 - 🔭 I’m currently studding multimedia development!
 - 🌱 I’m currently learning everything 🤣
