@@ -62,7 +62,7 @@
 [facebook]: https://www.facebook.com/yapac.96.profil
 [youtube]: https://www.youtube.com/c/YaPac96
 [instagram]: https://www.instagram.com/yapac_96
-[linkedin]: https://www.linkedin.com/in/yassine-elatlassi-b20152196/
+[linkedin]: https://www.linkedin.com/in/yapac96/
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
