@@ -5,7 +5,7 @@
 ## I'm a Designer and a FullStack developer !
 
 - 🔭 I’m currently studding multimedia development!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning android studio 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a dancer and a parkour athlete!
