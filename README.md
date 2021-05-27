@@ -59,7 +59,7 @@
 [facebook]: https://www.facebook.com/yapac.96.profil
 [youtube]: https://www.youtube.com/c/YaPac96
 [instagram]: https://www.instagram.com/yapac_96
-[linkedin]: https://www.linkedin.com/in/yapac96/
+[linkedin]: https://www.linkedin.com/in/yapacdev/
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
