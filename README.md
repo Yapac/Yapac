@@ -5,9 +5,9 @@
 ## I'm a Designer and a Software engineer !
 
 - 🔭 I’m currently studding multimedia development!
-- 🌱 I’m currently learning android studio 
+- 🌱 I’m currently learning three.js
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Building my portfolio
 - ⚡ Fun fact: I'm a dancer and a parkour athlete!
 
 ### Spotify Playing 🎧
