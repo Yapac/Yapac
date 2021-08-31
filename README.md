@@ -10,9 +10,6 @@
 - 🥅 2021 Goals: Building my portfolio
 - ⚡ Fun fact: I'm a dancer and a parkour athlete!
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Yapac Spotify Playing" width="350" />](https://open.spotify.com/user/pnqrrxa85831rfm0o8q9alc0w?si=hMYonEsKSk6ksQPlQtjaFA)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
