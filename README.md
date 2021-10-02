@@ -37,7 +37,7 @@
 
 ---
 
-<details style="background-color:none">
+<details>
   <summary>:zap: Most used languages</summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yapac)](https://github.com/yapac/github-readme-stats)
