@@ -4,11 +4,10 @@
 [![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapacdev&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapacdev/)
 ## I'm a Designer and a Software engineer !
 
-- 🔭 I’m currently studding multimedia development!
-- 🌱 I’m currently learning three.js
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Building my portfolio
-- ⚡ Fun fact: I'm a dancer and a parkour athlete!
+- 🔭 I’m currently working as a freelancer!
+- 🌱 I’m always learning new stuffs
+- 🥅 My portfolio is live on the internet
+- ⚡ Fun fact: I'm a dancer and a movement artist!
 
 ### Connect with me:
 
