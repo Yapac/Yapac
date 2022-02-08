@@ -1,7 +1,7 @@
 ### Hi there, I'm Yassine - (Known as [Yapac][instagram]) 👋
 
-[![Website](https://img.shields.io/website?label=Yapac.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://facebook.com/yapac_96)
-[![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapac&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapac_96/)
+[![Website](https://img.shields.io/website?label=Yapacdev.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yapacdev.com)
+[![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapacdev&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapacdev/)
 ## I'm a Designer and a Software engineer !
 
 - 🔭 I’m currently studding multimedia development!
