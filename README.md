@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=Yapacdev.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yapacdev.com)
 [![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapacdev&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapacdev/)
-## I'm a Designer and a Software engineer !
+## I'm a Designer and a Software engineer!
 
 - 🔭 I’m currently working as a freelancer!
-- 🌱 I’m always learning new stuffs
+- 🌱 I’m always learning new stuff
 - 🥅 My portfolio is live on the internet
 - ⚡ Fun fact: I'm a dancer and a movement artist!
 
@@ -13,7 +13,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
