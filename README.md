@@ -1,13 +1,13 @@
-### Hi there, I'm Yassine - (Known as [Yapac][instagram]) 👋
+### Hi there, I'm Yassine El Atlassi - (Known as [Yapacdev][instagram]) 👋
 
 [![Website](https://img.shields.io/website?label=Yapacdev.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yapacdev.com)
 [![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapacdev&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapacdev/)
-## I'm a Designer and a Software engineer!
+## I'm a Software engineer and a Designer!
 
-- 🔭 I’m currently working as a freelancer!
-- 🌱 I’m always learning new stuff
-- 🥅 My portfolio is live on the internet
-- ⚡ Fun fact: I'm a dancer and a movement artist!
+- 🔭 Currently working as a freelancer, open to new opportunities!
+- 🌱 I’m always aiming to learn new stuff.
+- 🥅 My portfolio is live on the internet!
+- ⚡ High problem-solving skills, long-run view!
 
 ### Connect with me:
 
