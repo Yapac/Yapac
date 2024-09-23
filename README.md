@@ -1,8 +1,7 @@
 ### Hi there, I'm Yassine El Atlassi - (Known as [Yapacdev][instagram]) 👋
 
 [![Website](https://img.shields.io/website?label=Yapacdev.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://yapacdev.com)
-[![Instagram Follow](https://img.shields.io/youtube/views/Dl-ekLb4quE?label=Yapacdev&color=DD2A7B&logo=instagram&style=for-the-badge)](https://www.instagram.com/yapacdev/)
-## I'm a Software engineer and a Designer!
+## I'm a Software engineer, specializing in Web!
 
 - 🔭 Currently working as a freelancer, open to new opportunities!
 - 🌱 I’m always aiming to learn new stuff.
@@ -17,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### Main Languages and Tools:
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
 
 
@@ -45,12 +44,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Yapac's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yapac&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://yapacdev.com/
 [facebook]: https://www.facebook.com/yapac.96.profil
