@@ -46,10 +46,5 @@
 
 
 [website]: https://yapacdev.com/
-[facebook]: https://www.facebook.com/yapac.96.profil
 [instagram]: https://www.instagram.com/yapacdev
 [linkedin]: https://www.linkedin.com/in/yapacdev/
-[webdevplaylist]: #
-[jsplaylist]: #
-[cssplaylist]: #
-[reactplaylist]: #
