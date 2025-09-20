@@ -20,12 +20,6 @@
 [<img align="left" alt="yapacdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="yapacdev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-### 🌐 Connect with Me
-
-[![Website](https://img.shields.io/badge/Website-🌐-000?style=flat&logo=google-chrome&logoColor=white)](https://yapacdev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yapacdev)
-[![Instagram](https://img.shields.io/badge/Instagram-📸-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yapacdev)
-
 <br/>
 
 ---
